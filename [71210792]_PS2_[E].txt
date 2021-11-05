@@ -1,0 +1,3 @@
+Gelas yang akan terisi terlebih dahulu yaitu gelas nomor 2. Karena pada gelas nomor 4, saluran yang menuju ke gelas nomor 2 itu sedikit lebih rendah di bandingkan saluran yang menuju  ke gelas nomor 6. 
+Dan pada gelas nomor 2 memiliki dua saluran yang tertutup. kalau pada gelas nomor 6 terdapat satu lubang saluran terbuka yang menuju ke gelas nomor 7. 
+Sehingga ketika gelas nomor 4 terisi yang akan terisi penuh duluan adalah gelas nomor 2 karena untuk mencapai titik saluran air ke gelas nomor 6 membutuhkan waktu untuk mengisi gelas nomor 2
